@@ -26,6 +26,7 @@ CSS Mini Project/
 
 3. Modify the style.css file to customize the sidebar and overall styling.
 
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -33,3 +34,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contributing
 
 If you would like to contribute to this project, please feel free to fork the repository and submit a pull request. Contributions are always welcome!
+
+
+## Screenshots  
+![Screenshot 2024-08-09 201147](https://github.com/user-attachments/assets/4abc5b3d-a198-4873-98e1-f3523fb3ef34)  
+![Screenshot 2024-08-09 201343](https://github.com/user-attachments/assets/bd2ed249-7133-460e-bb39-400a060a2f3d)
