@@ -10,9 +10,9 @@ This project demonstrates how to create a responsive sidebar using only HTML and
 
 ## Project Structure
 
-CSS Mini Project/
-├── index.html # Main HTML file containing the structure of the page
-├── style.css # CSS file containing styles for the sidebar and other elements
+CSS Mini Project/  
+├── index.html # Main HTML file containing the structure of the page  
+├── style.css # CSS file containing styles for the sidebar and other elements  
 ├── photo.jpg # Image file used within the project
 
 ## How to Use
