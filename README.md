@@ -20,4 +20,16 @@ CSS Mini Project/
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/repository-name.git
+   git clone https://github.com/Riyaz-021/CSS-only-Responsive-Sidebar.git
+
+2. Open the index.html file in your web browser to view the project.
+
+3. Modify the style.css file to customize the sidebar and overall styling.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contributing
+
+If you would like to contribute to this project, please feel free to fork the repository and submit a pull request. Contributions are always welcome!
